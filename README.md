@@ -16,8 +16,5 @@
 [![Line](https://img.shields.io/badge/line-14CC764?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/Z6i2NpInRq)
 
 ## GitHub Stats 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
-## GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![YKUNAKORN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YKUNAKORN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YKUNAKORN&layout=compact&hide_border=true&theme=transparent)
