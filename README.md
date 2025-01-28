@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 
 <img src="https://your-banner-image-link.com" alt="Profile Banner">
+
+## About Me 😊
+
+- 👨‍💻 I’m a **Computer Engineering Student**.
+- 🔥 Front-End Developer | UI/UX Enthusiast.
+- 🎯 Learning **React.js**, **TypeScript**, and **Tailwind CSS**.
+- 🎵 Fun Fact: I can listen to music for 12 hours straight!
+- 🌍 Open for collaboration on **Web Development Projects**.
+- 📫 How to reach me: your-email@example.com
