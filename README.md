@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="[https://your-banner-image-link.com](https://www.freelancer.co.th/contest/linkedin-profile-banner-1683544-byentry-33056195)" alt="Profile Banner">
+<img src="https://cdn3.f-cdn.com/contestentries/1683544/29258875/5de652e07bf20_thumb900.jpg" alt="Profile Banner">
 
 ## About Me 😊
 
