@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 🎯 Learning **React.js**, **TypeScript**, and **Tailwind CSS**.
 - 🎵 Fun Fact: I can listen to music for 12 hours straight!
 - 🌍 Open for collaboration on **Web Development Projects**.
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: kunakorn.contact@gmail.com
