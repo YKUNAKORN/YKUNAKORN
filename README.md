@@ -1,11 +1,9 @@
 <img src="https://i.postimg.cc/prdF45NZ/Aesthetic-Twitter-Header.png" alt="Profile Banner">
 
 ## About Me 
-
 - I’m a **Computer Engineering Student**.
 - Front-End Developer / Full stack developer | UI/UX Enthusiast.
-- Learning **React.js**, **TypeScript**, and **Tailwind CSS**.
-- Fun Fact: I can listen to music for 12 hours straight!
+- Learning **React.js**, **Next.js**, **Nest.js**, **TypeScript**, and **Tailwind CSS**.
 - Open for collaboration on **Web Development Projects**.
 - How to reach me: kunakorn.contact@gmail.com
 
