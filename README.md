@@ -1,11 +1,11 @@
 <img src="https://i.postimg.cc/prdF45NZ/Aesthetic-Twitter-Header.png" alt="Profile Banner">
 
-## About Me 
-- I’m a **Computer Engineering Student**.
-- Front-End Developer / Full stack developer | UI/UX Enthusiast.
-- Learning **Java Sprint boot**, **Nest.js**, and **Tailwind CSS**.
-- Open for collaboration on **Web Development Projects**.
+## About 
+- I’m a 3rd years of **Computer Engineering Student**.
+- Front-End Developer / Full stack developer | Blockchain related.
+- Learning **Java Sprint boot**, **Solidity**, **Nest.js**, and **Tailwind CSS**.
 - How to reach me: kunakorn.contact@gmail.com
+- Explore more: https://ykunakorn-portfoliodev.vercel.app/
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ykunakorn/)
