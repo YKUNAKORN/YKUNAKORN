@@ -1,8 +1,8 @@
 <img src="https://i.postimg.cc/prdF45NZ/Aesthetic-Twitter-Header.png" alt="Profile Banner">
 
 ## About 
-- I’m a 3rd years of **Computer Engineering Student**.
-- Front-End Developer / Full stack developer | Blockchain related.
+- I’m a 4th years of **Computer Engineering Student**.
+- Frontend Developer / Full stack developer | Blockchain related.
 - Learning **Java Sprint boot**, **Solidity**, **Nest.js**, and **Tailwind CSS**.
 - How to reach me: kunakorn.contact@gmail.com
 - Explore more: https://ykunakorn-portfoliodev.vercel.app/
